@@ -1,0 +1,16 @@
+C:\Users\Andreas.RUTTKAMP\XmlEditor\bin\Debug\net5.0\XmlEditor.exe
+C:\Users\Andreas.RUTTKAMP\XmlEditor\bin\Debug\net5.0\XmlEditor.deps.json
+C:\Users\Andreas.RUTTKAMP\XmlEditor\bin\Debug\net5.0\XmlEditor.runtimeconfig.json
+C:\Users\Andreas.RUTTKAMP\XmlEditor\bin\Debug\net5.0\XmlEditor.runtimeconfig.dev.json
+C:\Users\Andreas.RUTTKAMP\XmlEditor\bin\Debug\net5.0\XmlEditor.dll
+C:\Users\Andreas.RUTTKAMP\XmlEditor\bin\Debug\net5.0\ref\XmlEditor.dll
+C:\Users\Andreas.RUTTKAMP\XmlEditor\bin\Debug\net5.0\XmlEditor.pdb
+C:\Users\Andreas.RUTTKAMP\XmlEditor\obj\Debug\net5.0\XmlEditor.csprojAssemblyReference.cache
+C:\Users\Andreas.RUTTKAMP\XmlEditor\obj\Debug\net5.0\XmlEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andreas.RUTTKAMP\XmlEditor\obj\Debug\net5.0\XmlEditor.AssemblyInfoInputs.cache
+C:\Users\Andreas.RUTTKAMP\XmlEditor\obj\Debug\net5.0\XmlEditor.AssemblyInfo.cs
+C:\Users\Andreas.RUTTKAMP\XmlEditor\obj\Debug\net5.0\XmlEditor.csproj.CoreCompileInputs.cache
+C:\Users\Andreas.RUTTKAMP\XmlEditor\obj\Debug\net5.0\XmlEditor.dll
+C:\Users\Andreas.RUTTKAMP\XmlEditor\obj\Debug\net5.0\ref\XmlEditor.dll
+C:\Users\Andreas.RUTTKAMP\XmlEditor\obj\Debug\net5.0\XmlEditor.pdb
+C:\Users\Andreas.RUTTKAMP\XmlEditor\obj\Debug\net5.0\XmlEditor.genruntimeconfig.cache
